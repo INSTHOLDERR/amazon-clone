@@ -11,7 +11,7 @@ body {
     background-color: rgb(19, 25, 33);
     height: 60px;
     color: white;
-    padding-left: 320px;
+    
 }
 
 
@@ -391,7 +391,7 @@ body {
     top:-350px;
     /* background-color: rgb(196, 240, 240); */
     /* filter: blur(8px); */
-    padding-top: 400px;
+    /* padding-top: 400px; */
     
 }
 .productBackgraound{
